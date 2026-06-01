@@ -29,6 +29,8 @@
 	<Counter />
 </section>
 
+//Just adding this so I can get the commit message
+
 <style>
 	section {
 		display: flex;
